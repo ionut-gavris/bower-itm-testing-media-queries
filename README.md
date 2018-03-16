@@ -5,7 +5,7 @@
 # README #
 
 This repository contains a bower module.
-It contains media-query breakpoints for DIVI created by IT-Maniax Team.
+It contains testing media-query breakpoints for Bootstrap created by IT-Maniax Team.
 
 ***
 
